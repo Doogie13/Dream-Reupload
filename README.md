@@ -6,7 +6,7 @@ DREAM REUPLOAD BY DOOGIE13 - DOWNLOADED ON 15/11/2020 - RUN AT YOUR OWN RISK
 <p align="center">See the <a href="LICENSE">LICENSE</a> for more details.</p>  
   
 ---  
-
+Codacy badge (deleted)
 ![Codacy Badge](https://api.codacy.com/project/badge/Grade/ab952a3f8a4f4eb7bec9bd0117c95575)
 
   
